@@ -15,7 +15,7 @@ Add image
 --->
 ![Kuntal](https://user-images.githubusercontent.com/67447627/150199943-bac38664-a36d-48cc-99a6-7ed9023d4776.gif)
 
-<h2>About me</h2>
+<h1>About me</h1>
 
 - 🏡 I am from Dum Dum, Kolkata, West Bengal, India.
 - 💻 Now I am pursuing my B.Tech in Computer Science And Engineering
@@ -32,6 +32,12 @@ Add image
   https://www.linkedin.com/in/kuntalojha
 - My Twitter Profile
   https://twitter.com/kuntalojha
+
+
+[![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!---
 kuntalojha/kuntalojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
