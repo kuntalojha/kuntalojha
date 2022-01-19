@@ -38,9 +38,8 @@ Add image
 
 - My LinkedIn Profile
   https://www.linkedin.com/in/kuntalojha
-- My Twitter Profile
-  https://twitter.com/kuntalojha
-
+  
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkuntalojha)
 
 <!---
 kuntalojha/kuntalojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
