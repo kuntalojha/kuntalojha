@@ -36,10 +36,13 @@ Add image
 
 # 📫 Reach me..
 
-- My LinkedIn Profile
-  https://www.linkedin.com/in/kuntalojha
-  
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkuntalojha)
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/kuntalojha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/kuntalojha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.youtube.com/c/kuntalojha"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
 
 <!---
 kuntalojha/kuntalojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
