@@ -41,7 +41,9 @@ Add image
 <a href = "https://www.linkedin.com/in/kuntalojha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/kuntalojha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/c/kuntalojha"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href = "https://www.codechef.com/users/kuntalojha/"><img src="https://img.icons8.com/color/48/000000/codechef.png"/>
+<a href = "https://leetcode.com/kuntalojha/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+<a href = "https://www.hackerrank.com/kuntalojha"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> 
 </p>
 
 <!---
