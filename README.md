@@ -16,15 +16,25 @@ Add image
 ![Kuntal](https://user-images.githubusercontent.com/67447627/150199943-bac38664-a36d-48cc-99a6-7ed9023d4776.gif)
 
 <h1>
-About me
+    
+<p align="center">
+<a href="https://github.com/kuntalojha/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kuntal Ojha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntalojha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+    
+About Me
 <a href="https://github.com/kuntalojha/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kuntalojha">
 </a>
+<a href="https://github.com/kuntalojha?tab=followers">
+    <img src="https://img.shields.io/github/followers/kuntalojha?label=Followers&style=social" alt="GitHub Badge">
+ </a>
 </h1>
 
 - 🏡 I am from Dum Dum, Kolkata, West Bengal, India.
 - 💻 Now I am pursuing my B.Tech in Computer Science And Engineering at 
-- 🎓Bankura Unnayani Institute of Engineering. 📚Now I am in my 3rd year.
+- 🎓Bankura Unnayani Institute of Engineering. 📚Now I am in my 4th year.
 - 👀 I’m interested in Competitive Programming.I am always trying to learn new skills.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on any softwer/open sourse  company/organazition .
@@ -33,11 +43,23 @@ About me
 
 
 
+## 🚩 My GitHub Stats
+<br/>
+<a href="https://github.com/kuntalojha/github-readme-stats"><img alt="Kuntal Ojha's Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=kuntalojha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<br/>
+<a href="https://github.com/kuntalojha/github-readme-stats"><img alt="Kuntal Ojha's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntalojha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
+<!--
+
 [![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kuntalojha/Peofile-Summary-Card/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kuntalojha&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+-->
 
 # 📫 Reach me..
 
