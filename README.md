@@ -15,7 +15,12 @@ Add image
 --->
 ![Kuntal](https://user-images.githubusercontent.com/67447627/150199943-bac38664-a36d-48cc-99a6-7ed9023d4776.gif)
 
-<h1>About me</h1>
+<h1>
+About me
+<a href="https://github.com/kuntalojha/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kuntalojha">
+</a>
+</h1>
 
 - 🏡 I am from Dum Dum, Kolkata, West Bengal, India.
 - 💻 Now I am pursuing my B.Tech in Computer Science And Engineering at 
