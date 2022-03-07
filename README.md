@@ -61,6 +61,8 @@ About Me
 
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kuntalojha)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 📫 Reach me..
 
 <p align="left">
