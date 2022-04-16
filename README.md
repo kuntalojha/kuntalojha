@@ -15,6 +15,7 @@ Add image
 --->
 ![Kuntal](https://user-images.githubusercontent.com/67447627/150199943-bac38664-a36d-48cc-99a6-7ed9023d4776.gif)
 
+
 <h1>
     
 <p align="center">
@@ -30,6 +31,13 @@ About Me
 <a href="https://github.com/kuntalojha?tab=followers">
     <img src="https://img.shields.io/github/followers/kuntalojha?label=Followers&style=social" alt="GitHub Badge">
  </a>
+    
+<!--
+   [![Years Badge](https://badges.pufler.dev/years/kuntalojha)](https://badges.pufler.dev)
+   [![Visits Badge](https://badges.pufler.dev/visits/sahilsaha7773/kuntalojha)](https://badges.pufler.dev)
+   [![Years Badge](https://badges.pufler.dev/years/kuntalojha)](https://badges.pufler.dev) 
+-->
+    
 </h1>
 
 - 🏡 I am from Dum Dum, Kolkata, West Bengal, India.
@@ -43,7 +51,10 @@ About Me
 
 
 
-## 🚩 My GitHub Stats
+## 🚩 My GitHub Stats 
+
+<br/>
+<img src="https://activity-graph.herokuapp.com/graph?username=kuntalojha&theme=react-dark"/>
 <br/>
 <a href="https://github.com/kuntalojha/github-readme-stats"><img alt="Kuntal Ojha's Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=kuntalojha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
