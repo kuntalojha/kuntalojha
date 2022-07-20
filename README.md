@@ -40,7 +40,7 @@ About Me
 [![trophy](https://github-profile-trophy.vercel.app/?username=kuntalojha)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Add Knowing Programming Language -->
-<h3 align="left"> Programming Languages Working </h3>
+<h1 align="left"> Programming Languages Working </h1>
 
 | C | C++ | Java | Python | JS |
 |-----------|-----------|-----------|-----------|-----------|
@@ -51,7 +51,7 @@ About Me
 -->
 
 <!--  Add Knowing tools-->
-<h3 align="left"> Tools ⚙️ </h3>
+<h1 align="left"> Tools ⚙️ </h1>
 
 | Figma | Git | GitHub |
 |-----------|-----------|-----------|
