@@ -1,5 +1,8 @@
-<!--- For first part. --->
-<h1 align="center"><b>Hi, I’m Kuntal Ojha</b> <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
+<!--- For the first part. --->
+
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Kuntal.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 
 <!--- Add image --->
 ![Kuntal](https://user-images.githubusercontent.com/67447627/150199943-bac38664-a36d-48cc-99a6-7ed9023d4776.gif)
@@ -16,19 +19,29 @@ About Me
 - 🏡 I am from Dum Dum, Kolkata, West Bengal, India.
 - 💻 Now I am pursuing my M.Tech in Computer Science And Engineering at 
 - 🎓Bankura Unnayani Institute of Engineering. 📚Now I am in my 2nd year.
-- 👀 I’m interested in Competitive Programming.I am always trying to learn new skills.
+- 👀 I’m interested in Competitive Programming. I am always trying to learn new skills.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on any softwer/open sourse  company/organazition .
-- 🏢 Now i am working with Coding Minutes as a Campus Captain.
-- 🎯 That's all about me.Thank you for looking into it. Have a good day 😊.
+- 💞️ I want to collaborate on any software/open source  company/organization.
+- 🏢 Now I am working with Coding Minutes as a Campus Captain.
+- 🎯 That's all about me. Thank you for looking into it. Have a good day 😊.
 
+<!-- Let's Connect Part 
+## 🔰 Let's Connect:
 
-<!-- Add  My GitHub Stats -->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkuntalojha/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kuntalojha/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@gmail.com) 
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555) 
+-->
+
+<!-- 
+Add  My GitHub Stats 
 ## 🚩 My GitHub Stats 
 
 <br/>
 <img src="https://activity-graph.herokuapp.com/graph?username=kuntalojha&theme=react-dark"/>
 <br/>
+-->
 
 <!--  Add GitHub Activity-->
 ## 📊 GitHub Activity
@@ -36,7 +49,7 @@ About Me
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuntalojha&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kuntalojha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
-<!-- Add achievments from github-->
+<!-- Add achievements from GitHub-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=kuntalojha)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Add Knowing Programming Language -->
