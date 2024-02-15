@@ -14,8 +14,25 @@ About Me
 <a href="https://github.com/kuntalojha?tab=followers"><img src="https://img.shields.io/github/followers/kuntalojha?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 </h1>
+
+<!-- About Me -->
+👋 Hello there! I'm Kuntal Ojha, a dedicated learner and aspiring software engineer based in Dum Dum, Kolkata, West Bengal, India. Currently, I'm pursuing my M.Tech in Computer Science and Engineering at Bankura Unnayani Institute of Engineering, where I'm in my 2nd year of studies.
+
+## Education
+🎓 M.Tech in Computer Science and Engineering
+Bankura Unnayani Institute of Engineering
+## Interests
+💻 I have a passion for Competitive Programming, constantly honing my problem-solving skills and algorithmic thinking.
+🌱 Currently, I'm expanding my knowledge in Web Development, exploring modern frameworks and technologies.
+## Professional Experience
+🏢 I'm proud to be working with Coding Minutes as a Campus Captain, where I contribute to fostering a learning and skill development culture among students.
+## Collaboration
+💞 I'm eager to collaborate with software companies and open-source organizations to contribute meaningfully to projects and initiatives.
+## Let's Connect!
+Feel free to contact me if you're interested in collaboration or want to chat. Thank you for taking the time to learn a bit about me! Have a fantastic day! 😊
+
     
-<!-- Add about me description -->
+<!-- Add about me description 
 - 🏡 I am from Dum Dum, Kolkata, West Bengal, India.
 - 💻 Now I am pursuing my M.Tech in Computer Science And Engineering at 
 - 🎓Bankura Unnayani Institute of Engineering. 📚Now I am in my 2nd year.
@@ -24,6 +41,7 @@ About Me
 - 💞️ I want to collaborate on any software/open source  company/organization.
 - 🏢 Now I am working with Coding Minutes as a Campus Captain.
 - 🎯 That's all about me. Thank you for looking into it. Have a good day 😊.
+ Add about me description -->
 
 <!-- Let's Connect Part 
 ## 🔰 Let's Connect:
