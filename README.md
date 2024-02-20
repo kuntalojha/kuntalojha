@@ -30,37 +30,9 @@ Bankura Unnayani Institute of Engineering
 💞 I'm eager to collaborate with software companies and open-source organizations to contribute meaningfully to projects and initiatives.
 ## Let's Connect!
 Feel free to contact me if you're interested in collaboration or want to chat. Thank you for taking the time to learn a bit about me! Have a fantastic day! 😊
-
-    
-<!-- Add about me description 
-- 🏡 I am from Dum Dum, Kolkata, West Bengal, India.
-- 💻 Now I am pursuing my M.Tech in Computer Science And Engineering at 
-- 🎓Bankura Unnayani Institute of Engineering. 📚Now I am in my 2nd year.
-- 👀 I’m interested in Competitive Programming. I am always trying to learn new skills.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I want to collaborate on any software/open source  company/organization.
-- 🏢 Now I am working with Coding Minutes as a Campus Captain.
-- 🎯 That's all about me. Thank you for looking into it. Have a good day 😊.
- Add about me description -->
-
-<!-- Let's Connect Part 
-## 🔰 Let's Connect:
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkuntalojha/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kuntalojha/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@gmail.com) 
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555) 
--->
-
-<!-- 
-Add  My GitHub Stats 
-## 🚩 My GitHub Stats 
-
-<br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=kuntalojha&theme=react-dark"/>
-<br/>
--->
-
+| Linkedin | GitHub | YouTube | Stackoverflow | Instagram | Twitter |
+|----------|--------|---------|---------------|-----------|---------|
+| <a href="https://linkedin.com/in/mrkuntalojha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> | <a href="https://github.com/kuntalojha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a> | <a href="https://www.youtube.com/c/kuntalojha" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="30" width="40" /></a> | <a href="https://stackoverflow.com/users/14094531/kuntal-ojha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a> | <a href="https://instagram.com/mrkuntalojha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a> | <a href="https://twitter.com/kuntalojha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a> |
 <!--  Add GitHub Activity-->
 ## 📊 GitHub Activity
 | ![Amit github stats](https://github-readme-stats.vercel.app/api?username=kuntalojha&show_icons=true&theme=radical) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuntalojha&theme=radical)                                                                                                           |
@@ -71,29 +43,15 @@ Add  My GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=kuntalojha)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Add Knowing Programming Language -->
-<h1 align="left"> Programming Languages Working </h1>
+<h1 align="left"> Languages </h1>
 
-| C | C++ | Java | Python | JS |
-|-----------|-----------|-----------|-----------|-----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> | 
-
-<!--
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> |
--->
+| Python | JS |
+|-----------|-----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> | 
 
 <!--  Add Knowing tools-->
 <h1 align="left"> Tools ⚙️ </h1>
 
-| Figma | Git | GitHub |
-|-----------|-----------|-----------|
-|<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> |<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="GitHub" width="40" height="40"/> | 
-
-<!--  Add Social media link -->
-<h1 align="left">  Connect with me on social media 📲 </h1>
-
-| Linkedin | GitHub |  CodeChef | CodeForces | LeedCode | HackerRank | YouTube | Stackoverflow | Insta| Twitter | FB |
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| <p align="center"><a href="https://linkedin.com/in/mrkuntalojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/kuntalojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> </p> | <p align="center"> <a href="https://www.codechef.com/users/kuntalojha" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="30" width="40" /></a></p> | <p align="center"> <a href="https://codeforces.com/profile/kuntalojha" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="CodeForces" height="30" width="40" /></a> </p>|<p align="center"> <a href="https://www.leetcode.com/kuntalojha" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeedCode" height="30" width="40" /></a></p> | <p align="center"> <a href="https://www.hackerrank.com/kuntalojha" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"  alt="HackerRank" height="30" width="40" /></a></p> | <p align="center"> <a href="https://www.youtube.com/c/kuntalojha" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png"  alt="YouTube" height="30" width="40" /></a></p> | <p align="center"><a href="https://stackoverflow.com/users/14094531/kuntal-ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow" height="30" width="40" /></a> </p> | <p align="center"><a href="https://instagram.com/mrkuntalojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/kuntalojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a> </p>|<p align="center"> <a href="https://www.facebook.com/mrkuntalojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FaceBook" height="30" width="40" /></a></p> |
-
-
-<!--  Made by Kuntal Ojha-->
+| Git | GitHub |
+|-----------|-----------|
+|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="GitHub" width="40" height="40"/> | 
