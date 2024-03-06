@@ -16,7 +16,7 @@ About Me
 </h1>
 
 <!-- About Me -->
-👋 Hello there! I'm Kuntal Ojha, a dedicated learner and aspiring software engineer based in Dum Dum, Kolkata, West Bengal, India. Currently, I'm pursuing my M.Tech in Computer Science and Engineering at Bankura Unnayani Institute of Engineering, where I'm in my 2nd year of studies.
+🚀 MERN Stack Web Developer crafting dynamic digital experiences with expertise in MongoDB, Express.js, React, and Node.js (MERN stack). Passionate about innovation, coding, and staying ahead of the curve. When not coding, I'm exploring tech trends or enjoying the outdoors.
 
 ## Education
 🎓 M.Tech in Computer Science and Engineering
