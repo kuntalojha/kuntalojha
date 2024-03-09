@@ -29,7 +29,7 @@ Bankura Unnayani Institute of Engineering
 ## Collaboration
 💞 I'm eager to collaborate with software companies and open-source organizations to contribute meaningfully to projects and initiatives.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,py,firebase,bash,git,github,linux,md,mongodb,nodejs,npm,express,postman,react,aws,notion)](https://skillicons.dev)
 
 
 ## Let's Connect!
