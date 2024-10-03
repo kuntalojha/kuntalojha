@@ -11,22 +11,25 @@ About Me
 <br>
 </h1>
 
-🚀 **Full-Stack MERN Developer** with a passion for building scalable and efficient web applications using **MongoDB, Express.js, React, and Node.js (MERN stack)**. I thrive on creating seamless user experiences, writing clean code, and exploring cutting-edge web technologies.
+# 🚀 Full-Stack MERN Developer
+
+I have a passion for building scalable and efficient web applications using **MongoDB, Express.js, React, and Node.js (MERN stack)**. I thrive on creating seamless user experiences, writing clean code, and exploring cutting-edge web technologies.
 
 ## MERN Stack Expertise
 
-- **MongoDB**: Expertise in designing NoSQL databases, optimizing queries, and ensuring data integrity for robust applications.
-- **Express.js**: Proficient in developing RESTful APIs and middleware for backend services, with a focus on performance and security.
-- **React**: Experienced in building dynamic, component-based front-end applications using modern React practices (Hooks, Context API).
-- **Node.js**: Skilled in server-side development, handling complex logic, and managing APIs to support efficient app infrastructure.
+| **Technology**   | **Description**                                                                                          |
+|------------------|----------------------------------------------------------------------------------------------------------|
+| **MongoDB**      | Expertise in designing NoSQL databases, optimizing queries, and ensuring data integrity for robust applications. |
+| **Express.js**   | Proficient in developing RESTful APIs and middleware for backend services, with a focus on performance and security. |
+| **React**        | Experienced in building dynamic, component-based front-end applications using modern React practices (Hooks, Context API). |
+| **Node.js**      | Skilled in server-side development, handling complex logic, and managing APIs to support efficient app infrastructure. |
 
 ## Education
 
-🎓 **B.Tech in Computer Science and Engineering (2018-2022)**  
-_Bankura Unnayani Institute of Engineering_
-
-🎓 **M.Tech in Computer Science and Engineering (2022-2024)**  
-_Bankura Unnayani Institute of Engineering_
+| **Degree**                                    | **Field**                          | **Institution**                               | **Duration**       |
+|-----------------------------------------------|------------------------------------|------------------------------------------------|---------------------|
+| 🎓 **B.Tech**                                 | Computer Science and Engineering   | Bankura Unnayani Institute of Engineering    | 2018 - 2022         |
+| 🎓 **M.Tech**                                 | Computer Science and Engineering   | Bankura Unnayani Institute of Engineering    | 2022 - 2024         |
 
 During my academic journey, I have focused extensively on full-stack web development, particularly the MERN stack, which has equipped me with the skills to develop end-to-end applications.
 
@@ -55,7 +58,7 @@ I'm always open to collaboration, discussions on web development, or exploring e
 | --- | --- | --- | --- | --- | --- |
 
 
-### Languages, Tools, and Technologies I Use:
+## Languages, Tools, and Technologies I Use:
 
 | **Category**              | **Technologies**                                                      |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
