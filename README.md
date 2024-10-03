@@ -1,13 +1,9 @@
-<!--- For the first part. --->
-
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Kuntal.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-<!--- Add image --->
 ![Kuntal](https://user-images.githubusercontent.com/67447627/150199943-bac38664-a36d-48cc-99a6-7ed9023d4776.gif)
 
-<!-- Add about me and  profile views and followers-->
 <h1>
 About Me 
 <a href="https://github.com/kuntalojha/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=kuntalojha"></a>
@@ -15,37 +11,60 @@ About Me
 <br>
 </h1>
 
-<!-- About Me -->
-🚀 MERN Stack Web Developer crafting dynamic digital experiences with expertise in MongoDB, Express.js, React, and Node.js (MERN stack). Passionate about innovation, coding, and staying ahead of the curve. When not coding, I'm exploring tech trends or enjoying the outdoors.
+🚀 **Full-Stack MERN Developer** with a passion for building scalable and efficient web applications using **MongoDB, Express.js, React, and Node.js (MERN stack)**. I thrive on creating seamless user experiences, writing clean code, and exploring cutting-edge web technologies.
+
+## MERN Stack Expertise
+
+- **MongoDB**: Expertise in designing NoSQL databases, optimizing queries, and ensuring data integrity for robust applications.
+- **Express.js**: Proficient in developing RESTful APIs and middleware for backend services, with a focus on performance and security.
+- **React**: Experienced in building dynamic, component-based front-end applications using modern React practices (Hooks, Context API).
+- **Node.js**: Skilled in server-side development, handling complex logic, and managing APIs to support efficient app infrastructure.
 
 ## Education
-🎓 M.Tech in Computer Science and Engineering
-Bankura Unnayani Institute of Engineering
-## Interests
-💻 I am passionate about Competitive Programming, constantly honing my problem-solving skills and algorithmic thinking.
-🌱 Currently, I'm expanding my knowledge in Web Development, exploring modern frameworks and technologies.
-## Professional Experience
-🏢 I'm proud to work with Coding Minutes as a Campus Captain, where I contribute to fostering a learning and skill development culture among students.
-## Collaboration
-💞 I'm eager to collaborate with software companies and open-source organizations to contribute meaningfully to projects and initiatives.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,py,firebase,bash,git,github,linux,md,mongodb,nodejs,npm,express,postman,react,aws,notion)](https://skillicons.dev)
+🎓 **B.Tech in Computer Science and Engineering (2018-2022)**  
+_Bankura Unnayani Institute of Engineering_
 
+🎓 **M.Tech in Computer Science and Engineering (2022-2024)**  
+_Bankura Unnayani Institute of Engineering_
+
+During my academic journey, I have focused extensively on full-stack web development, particularly the MERN stack, which has equipped me with the skills to develop end-to-end applications.
+
+## Projects
+
+### **Restaurant Management System**
+
+A comprehensive system to streamline restaurant operations, featuring:
+
+- **Order Management**: Efficiently handles customer orders and integrates with the kitchen.
+- **Inventory Control**: Tracks stock and notifies management when supplies are low.
+- **Staff Management**: Simplifies employee scheduling and task assignment.
+- **Payment Gateway Integration**: Secure payment handling using third-party APIs.
+
+The project is built using the **MERN stack** for a seamless full-stack experience, utilizing **MongoDB** for data management, **React** for a responsive UI, **Express** and **Node.js** for backend logic, and **payment gateways** for financial transactions.
+
+## Open to Collaboration
+
+💞 I’m excited to collaborate with **software companies** and **open-source projects** to contribute to impactful solutions, particularly in the MERN stack ecosystem.
 
 ## Let's Connect!
-Feel free to reach out to me if you're interested in collaboration or would like to chat. Thank you for taking the time to learn a bit about me! Have a fantastic day! 😊
-| Linkedin | GitHub | YouTube | Stackoverflow | Instagram | Twitter |
-|----------|--------|---------|---------------|-----------|---------|
-|[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mrkuntalojha)|[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/kuntalojha)| <a href="https://www.youtube.com/c/kuntalojha" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="55" width="55" /></a> |[![My Skills](https://skillicons.dev/icons?i=stackoverflow)]([https://skillicons.dev](https://stackoverflow.com/users/14094531/kuntal-ojha))|[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mrkuntalojha)|[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kuntalojha)|
-<!--
-| <a href="" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> | <a href="" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>  <a href="" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a> | <a href="https://instagram.com/mrkuntalojha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a> | <a href="" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a> | -->
+
+I'm always open to collaboration, discussions on web development, or exploring exciting MERN stack projects. If you're interested in connecting, feel free to reach out! Have a wonderful day! 😊
+
+| [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mrkuntalojha) | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kuntalojha) | <a href="https://www.youtube.com/c/kuntalojha" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="55" width="55" /></a> | [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14094531/kuntal-ojha) | [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mrkuntalojha) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kuntalojha) |
+| --- | --- | --- | --- | --- | --- |
 
 
-<!--  Add GitHub Activity-->
-## 📊 GitHub Activity
-| ![Amit github stats](https://github-readme-stats.vercel.app/api?username=kuntalojha&show_icons=true&theme=radical) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuntalojha&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuntalojha&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kuntalojha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+### Languages, Tools, and Technologies I Use:
 
-<!-- Add achievements from GitHub-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=kuntalojha)](https://github.com/ryo-ma/github-profile-trophy)
+| **Category**              | **Technologies**                                                      |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages** |[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)                                                                                                                                                |
+| **Frontend**              | [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![Sass](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)  [![vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)  [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)   |
+| **Backend**               | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)  [![npm](https://skillicons.dev/icons?i=npm)](https://skillicons.dev) [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev) |
+| **Databases**             | [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)                                                                                                                                                                                                                |
+| **Other Tools**           | [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  [![MD](https://skillicons.dev/icons?i=md)](https://skillicons.dev) [![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)  [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)  [![vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) |
+
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kuntalojha&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
