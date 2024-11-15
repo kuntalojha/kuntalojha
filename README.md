@@ -54,8 +54,8 @@ The project is built using the **MERN stack** for a seamless full-stack experien
 
 I'm always open to collaboration, discussions on web development, or exploring exciting MERN stack projects. If you're interested in connecting, feel free to reach out! Have a wonderful day! 😊
 
-| [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mrkuntalojha) | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kuntalojha) | <a href="https://www.youtube.com/c/kuntalojha" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="55" width="55" /></a> | [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14094531/kuntal-ojha) | [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mrkuntalojha) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kuntalojha) |
-| --- | --- | --- | --- | --- | --- |
+| [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mrkuntalojha) | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kuntalojha) | <a href="https://www.youtube.com/c/kuntalojha" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="55" width="55" /></a> | [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14094531/kuntal-ojha) | [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mrkuntalojha) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kuntalojha) | [![npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/~mrkuntalojha) |
+| --- | --- | --- | --- | --- | --- | --- |
 
 
 ## Languages, Tools, and Technologies I Use:
