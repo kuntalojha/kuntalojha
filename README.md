@@ -33,6 +33,25 @@ I have a passion for building scalable and efficient web applications using **Mo
 
 During my academic journey, I have focused extensively on full-stack web development, particularly the MERN stack, which has equipped me with the skills to develop end-to-end applications.
 
+## 🏆 Experience  
+
+### **Assistant Professor | JBIET, Hyderabad** *(Jan 2025 – Present)*  
+- Teaching **Data Structures (DS)** to undergraduate students.  
+- Conducted lectures, mentored students, and organized academic activities.  
+- Guiding students in practical problem-solving techniques in **DS & Algorithms**.  
+
+### **Campus Captain | Coding Minutes** *(July 2021 – Present)*  
+- Organizing **webinars** and tech events to help students upskill.  
+- Reviewing courses and providing valuable feedback for improvement.  
+- Assisting in marketing and outreach for online coding courses.  
+
+### **Full-Stack Developer | Open Source & Freelance**  
+- Building scalable web applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
+- Developed and published **KnowIndia**, an npm package providing Indian state-wise details.  
+- Working on a **Restaurant Management System**, implementing **real-time order management, admin dashboards, and role-based access control**.  
+
+
+
 ## Projects
 
 ### **Restaurant Management System**
@@ -40,7 +59,7 @@ During my academic journey, I have focused extensively on full-stack web develop
 A comprehensive system to streamline restaurant operations, featuring:
 
 - **Order Management**: Efficiently handles customer orders and integrates with the kitchen.
-- **Inventory Control**: Tracks stock and notifies management when supplies are low.
+- **Inventory Control**: Tracks stock and notifies management of low supplies.
 - **Staff Management**: Simplifies employee scheduling and task assignment.
 - **Payment Gateway Integration**: Secure payment handling using third-party APIs.
 
